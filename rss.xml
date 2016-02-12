@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thechaigatecounsel]]></title>
+        <description><![CDATA[thechaigatecounsel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 22:36:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris 
+massa, pulvinar sit amet elit et, facilisis molestie sapien. Duis 
+euismod faucibus nibh, non tempus velit luctus porttitor. Ut in 
+consequat nisi. Pellentesque nec mauris leo. Phasellus et nisl vel arcu 
+aliquam accumsan. Sed nec congue augue, vel pretium libero. Aenean 
+vestibulum mauris vel ipsum accumsan, in rhoncus arcu lacinia. Cum 
+sociis natoque penatibus et magnis dis parturient montes, nascetur 
+ridiculus mus. Nulla rhoncus lorem eget dolor pretium, id vehicula nulla
+ elementum. Fusce placerat cursus mi, ut ullamcorper erat aliquam 
+aliquam. Vivamus in commodo ligula, eu porta nibh.
+</p>]]></description>
+            <link>undefined734e4298-e717-4b4c-975f-69502cc40fbc/index.html</link>
+            <guid isPermaLink="false">734e4298-e717-4b4c-975f-69502cc40fbc</guid>
+            <pubDate>Fri, 12 Feb 2016 22:36:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
