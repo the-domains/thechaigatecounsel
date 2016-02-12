@@ -2,10 +2,27 @@
     <channel>
         <title><![CDATA[thechaigatecounsel]]></title>
         <description><![CDATA[thechaigatecounsel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thechaigatecounsel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 22:36:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 22:36:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thechaigatecounsel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris 
+massa, pulvinar sit amet elit et, facilisis molestie sapien. Duis 
+euismod faucibus nibh, non tempus velit luctus porttitor. Ut in 
+consequat nisi. Pellentesque nec mauris leo. Phasellus et nisl vel arcu 
+aliquam accumsan. Sed nec congue augue, vel pretium libero. Aenean 
+vestibulum mauris vel ipsum accumsan, in rhoncus arcu lacinia. Cum 
+sociis natoque penatibus et magnis dis parturient montes, nascetur 
+ridiculus mus. Nulla rhoncus lorem eget dolor pretium, id vehicula nulla
+ elementum. Fusce placerat cursus mi, ut ullamcorper erat aliquam 
+aliquam. Vivamus in commodo ligula, eu porta nibh.
+</p>]]></description>
+            <link>https://thegrid.ai/thechaigatecounsel/bc46f193-4466-4cc8-9576-c67d3590bf08/index.html</link>
+            <guid isPermaLink="false">bc46f193-4466-4cc8-9576-c67d3590bf08</guid>
+            <pubDate>Fri, 12 Feb 2016 22:36:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>
@@ -20,7 +37,7 @@ ridiculus mus. Nulla rhoncus lorem eget dolor pretium, id vehicula nulla
  elementum. Fusce placerat cursus mi, ut ullamcorper erat aliquam 
 aliquam. Vivamus in commodo ligula, eu porta nibh.
 </p>]]></description>
-            <link>undefined734e4298-e717-4b4c-975f-69502cc40fbc/index.html</link>
+            <link>https://thegrid.ai/thechaigatecounsel/734e4298-e717-4b4c-975f-69502cc40fbc/index.html</link>
             <guid isPermaLink="false">734e4298-e717-4b4c-975f-69502cc40fbc</guid>
             <pubDate>Fri, 12 Feb 2016 22:36:06 GMT</pubDate>
         </item>
